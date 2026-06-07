@@ -20,6 +20,8 @@ int main(){
             break;
         case 2:
             hasil=a-b;
+            printf("Hasil operasi: %d\n",hasil);
+            break;
         default:
             printf("Pilihan tidak valid!\n");
             break;
