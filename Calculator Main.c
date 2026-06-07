@@ -3,16 +3,16 @@
 int main(){
     int a, b, hasil, pilih;
     
-    printf("--- Kalkulator ---\nMasukkan Angka Pertama: ");
+    printf("--- Kalkulator ---\nMasukkan Angka Pertama: "); // meminta input dari user untuk angka pertama
     scanf("%i",&a);
     
-    printf("Masukkan Angka Kedua: ");
+    printf("Masukkan Angka Kedua: "); // meminta input dari user untuk angka kedua
     scanf("%i",&b);
     
-    printf("Pilih Operasi: \n1. Tambah\n2. Kurang\n3. Bagi\n4. Kali\nPilihan: ");
+    printf("Pilih Operasi: \n1. Tambah\n2. Kurang\n3. Bagi\n4. Kali\nPilihan: "); // meminta input dari user untuk operasi yang diinginkan
     scanf("%i",&pilih);
 
-    switch (pilih) {
+    switch (pilih) {  // menggunakan switch case sebagai program flow program ini
         case 1:
             printf("Angka pertama: %d\n", a);
             printf("Angka kedua: %d\n", b);
