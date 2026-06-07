@@ -16,15 +16,15 @@ int main(){
         case 1:
             
             hasil = a + b;
-            printf("Hasil operasi: %d\n", hasil);
+            printf("Hasil operasi pertambahan: %d\n", hasil);
             break;
         case 2:
             hasil=a-b;
-            printf("Hasil operasi: %d\n",hasil);
+            printf("Hasil  pengurangan: %d\n",hasil);
             break;
         case 3:
             hasil=a/b
-            printf("Hasil operasi: %d\n",hasil);
+            printf("Hasil operasi pembagian: %d\n",hasil);
         default:
             printf("Pilihan tidak valid!\n");
             break;
