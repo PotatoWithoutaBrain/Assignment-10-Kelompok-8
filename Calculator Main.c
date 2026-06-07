@@ -14,12 +14,12 @@ int main(){
 
     switch (pilih) {  // menggunakan switch case sebagai program flow program ini
         case 1:
-            printf("Angka pertama: %d\n", a);
-            printf("Angka kedua: %d\n", b);
             
             hasil = a + b;
             printf("Hasil operasi: %d\n", hasil);
             break;
+        case 2:
+            hasil=a-b;
         default:
             printf("Pilihan tidak valid!\n");
             break;
