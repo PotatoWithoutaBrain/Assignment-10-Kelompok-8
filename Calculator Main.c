@@ -25,6 +25,8 @@ int main(){
         case 3:
             hasil=a/b
             printf("Hasil operasi pembagian: %d\n",hasil);
+        case 4:
+            
         default:
             printf("Pilihan tidak valid!\n");
             break;
