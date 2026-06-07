@@ -16,6 +16,7 @@ int main(){
         case 1:
             printf("Angka pertama: %d\n", a);
             printf("Angka kedua: %d\n", b);
+            
             hasil = a + b;
             printf("Hasil operasi: %d\n", hasil);
             break;
