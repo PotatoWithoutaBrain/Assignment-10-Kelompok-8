@@ -22,6 +22,9 @@ int main(){
             hasil=a-b;
             printf("Hasil operasi: %d\n",hasil);
             break;
+        case 3:
+            hasil=a/b
+            printf("Hasil operasi: %d\n",hasil);
         default:
             printf("Pilihan tidak valid!\n");
             break;
