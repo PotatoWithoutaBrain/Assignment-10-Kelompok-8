@@ -12,3 +12,8 @@ Maxwell:
 - Made addition
 - Formatted the code for readability
 - Added comments for even easier readability
+
+Kenneth:
+- Made the first part of the code
+- Made subtraction
+- Made the repo
