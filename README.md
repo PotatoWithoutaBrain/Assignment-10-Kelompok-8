@@ -7,3 +7,8 @@ Gilchrist:
 - Made multiplication
 - Made the program loop
 - Fixed bugs
+
+Maxwell:
+- Made addition
+- Formatted the code for readability
+- Added comments for even easier readability
