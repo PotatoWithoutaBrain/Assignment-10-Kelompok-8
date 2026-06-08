@@ -20,10 +20,10 @@ int main(){
             break;
         case 2:
             hasil=a-b;
-            printf("Hasil  pengurangan: %d\n",hasil);
+            printf("Hasil operasi pengurangan: %d\n",hasil);
             break;
         case 3:
-            hasil=a/b
+            hasil=a/b;
             printf("Hasil operasi pembagian: %d\n",hasil);
         case 4:
             
